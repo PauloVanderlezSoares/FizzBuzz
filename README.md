@@ -13,3 +13,9 @@ $python -m pytest teste_projeto.py
 ou
 
 $python3 -m pytest teste_projeto.py
+
+## Padronização
+A padronização do código foi feito via biblioteca pylint, para verificar utilize
+o código
+
+python3 -m pylint <nome_arquivo.py>
